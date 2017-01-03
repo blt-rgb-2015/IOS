@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://47.88.25.86:8891/ios-ipa/BLTMonitorView.ipa</string>
+                    <string>http://47.88.25.86:8891/ios-ipa/BloodPressure.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
     <string>cn.com.blt.MonitorView</string>
                 <key>bundle-version</key>
-                <string>1.0.0</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>BLTMonitorView</string>
+                <string>BloodPressure</string>
             </dict>
         </dict>
     </array>
