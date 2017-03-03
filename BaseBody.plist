@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>cn.com.bltIn.BasalBodyTemperature</string>
+    <string>cn.com.blt.BasalBodyTemperature</string>
                 <key>bundle-version</key>
                 <string>1.8.7</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>PregAid</string>
+                <string>BasalBodyTemperature</string>
             </dict>
         </dict>
     </array>
